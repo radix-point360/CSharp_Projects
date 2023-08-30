@@ -1,0 +1,3431 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataExtractor
+</name>
+</assembly>
+<members>
+<member name="T:DataExtractor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DataExtractor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DataExtractor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AcadYearDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ACC_WITHDRAWLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccessRightsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountGroupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountOpeningDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ActivityMonitorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ActivityMonitorOldDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AdmittedStudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AuthorMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BinderMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BindTypeMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueDtlsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueReturnRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankReturnRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBindIssueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookCategoryMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookClaimDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookFineMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueReturnRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueTypeMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookNotReturnrptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookReturnRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookSubCategoryMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookVerificationRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BranchMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BreakageLostDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BusChargesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BusServiceProviderInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CasteMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CategoryMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CityMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClaResSheDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_SeatsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_Subj_Exam_DtlsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_Subject_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassFeeMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassifficationTitleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.classificationdigitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.classItemDistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMarksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMedHIRankDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CompanyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CountryMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DailyBooksIssueRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DailyBooksReturnRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DCDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DCMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DepartmentMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DesignationMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DeviceCompMappingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Digital_Content_Source_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DigitalBooksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DigitalLibrarySectionMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.digittoclassificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Dissertation_DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DonatedMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ecollege_LibraryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookIssueReturnRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookIssueRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookReturnRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBooksIssueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmployeeMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmployeeMasterDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpProductIssueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EnquirDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EnquiryMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EventMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ex_importDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FeeRefundDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FinancialYrDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FineCollectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FineCollectionRRDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LanguageMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRBookBankDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRBooksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRDiscardedBooksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibBooksKeyWordsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibMagazineContentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibPhyVerifAnalysisRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySectionMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySectionSettingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySetupEmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySetupStudentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LogInDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MagazinesRecordDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MagazineWeeklyEntryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleAccessRightsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleAccessRightsLibraryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleFormMappingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MotherTongueMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.mytempbbdtDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NationalityMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsMagazineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsPaperRecordDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsPaperRecordPriceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.OccupationMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.oldnewsubject_yb_importDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PartialAccessDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PrefixMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_1_ybDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_2_ybDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_3_ybDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PublisherMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.purcdateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Q_PAPER_DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QualificationMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.questionPaperDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QuotationDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QuotationMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RackMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RackShelfBookCountRptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ReligionMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ReOpeningDateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RoleMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SchoolDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SectionMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Sheet2_DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Sheet4_DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ShelfMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SoceityInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SocMemDetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StateMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StatusMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StreamMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudAllocDtlsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudBooksIssueLooseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudBooksIsueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudDistDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudDistMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudEnquiryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentDailyAttendanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentStreamDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentTestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudLumsumAttndDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudPresentationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudStruckOffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubCastMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectSequenceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectsStudDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectTypeMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.subjectupdate_For_Import_OnlyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.syllabusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Temp_Stud_LogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempBSAcctDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TEMPDEPBOOKAUTHORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TEMPDEPBOOKAUTHORSUMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempFeeRecDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempInstCodeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempOutstandingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempPreMaxLogIdDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempPurcReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempSemesterwiseBookAddedReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TMPStudentPhotosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.UnpaidFeeReminderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.UserMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.VendorMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.VerificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.WashinfTimeTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.WriteOffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AcadYearRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ACC_WITHDRAWLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccessRightsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountGroupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountOpeningRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ActivityMonitorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ActivityMonitorOldRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AdmittedStudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AuthorMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BinderMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BindTypeMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueDtlsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueReturnRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankReturnRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBindIssueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookCategoryMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookClaimRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookFineMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueReturnRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueTypeMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookNotReturnrptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookReturnRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookSubCategoryMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookVerificationRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BranchMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BreakageLostRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BusChargesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BusServiceProviderInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CasteMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CategoryMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CityMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClaResSheRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_SeatsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_Subj_Exam_DtlsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_Subject_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassFeeMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassifficationTitleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.classificationdigitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.classItemDistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMarksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMedHIRankRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CompanyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CountryMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DailyBooksIssueRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DailyBooksReturnRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DCDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DCMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DepartmentMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DesignationMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DeviceCompMappingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Digital_Content_Source_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DigitalBooksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DigitalLibrarySectionMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.digittoclassificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Dissertation_Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DonatedMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ecollege_LibraryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookIssueReturnRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookIssueRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookReturnRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBooksIssueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmployeeMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmployeeMasterDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpProductIssueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EnquirDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EnquiryMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EventMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ex_importRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FeeRefundRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FinancialYrRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FineCollectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FineCollectionRRRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LanguageMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRBookBankRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRBooksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRDiscardedBooksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibBooksKeyWordsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibMagazineContentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibPhyVerifAnalysisRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySectionMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySectionSettingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySetupEmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySetupStudentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LogInDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MagazinesRecordRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MagazineWeeklyEntryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleAccessRightsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleAccessRightsLibraryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleFormMappingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MotherTongueMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.mytempbbdtRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NationalityMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsMagazineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsPaperRecordRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsPaperRecordPriceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.OccupationMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.oldnewsubject_yb_importRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PartialAccessRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PrefixMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_1_ybRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_2_ybRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_3_ybRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PublisherMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.purcdateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Q_PAPER_Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QualificationMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.questionPaperRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QuotationDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QuotationMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RackMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RackShelfBookCountRptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ReligionMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ReOpeningDateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RoleMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SchoolRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SectionMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Sheet2_Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Sheet4_Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ShelfMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SoceityInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SocMemDetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StateMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StatusMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StreamMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudAllocDtlsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudBooksIssueLooseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudBooksIsueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudDistDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudDistMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudEnquiryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentDailyAttendanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentStreamRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentTestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudLumsumAttndRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudPresentationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudStruckOffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubCastMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectSequenceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectsStudRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectTypeMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.subjectupdate_For_Import_OnlyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.syllabusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Temp_Stud_LogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempBSAcctRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TEMPDEPBOOKAUTHORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TEMPDEPBOOKAUTHORSUMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempFeeRecRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempInstCodeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempOutstandingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempPreMaxLogIdRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempPurcReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempSemesterwiseBookAddedReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TMPStudentPhotosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.UnpaidFeeReminderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.UserMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.VendorMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.VerificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.WashinfTimeTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.WriteOffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AcadYearRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ACC_WITHDRAWLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccessRightsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountGroupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AccountOpeningRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ActivityMonitorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ActivityMonitorOldRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AdmittedStudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.AuthorMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BinderMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BindTypeMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueDtlsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueReturnRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankIssueRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBankReturnRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookBindIssueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookCategoryMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookClaimRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookFineMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueReturnRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookIssueTypeMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookNotReturnrptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookReturnRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookSubCategoryMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BookVerificationRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BranchMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BreakageLostRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BusChargesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.BusServiceProviderInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CasteMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CategoryMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CityMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClaResSheRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_SeatsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_Subj_Exam_DtlsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Class_Subject_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassFeeMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassifficationTitleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.classificationdigitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.classItemDistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMarksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ClassMedHIRankRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CompanyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.CountryMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DailyBooksIssueRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DailyBooksReturnRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DCDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DCMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DepartmentMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DesignationMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DeviceCompMappingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Digital_Content_Source_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DigitalBooksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DigitalLibrarySectionMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.digittoclassificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Dissertation_RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.DonatedMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ecollege_LibraryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookIssueReturnRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookIssueRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBookReturnRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpBooksIssueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmployeeMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmployeeMasterDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EmpProductIssueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EnquirDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EnquiryMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.EventMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ex_importRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FeeRefundRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FinancialYrRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FineCollectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.FineCollectionRRRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LanguageMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRBookBankRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRBooksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LBRDiscardedBooksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibBooksKeyWordsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibMagazineContentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibPhyVerifAnalysisRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySectionMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySectionSettingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySetupEmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LibrarySetupStudentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.LogInDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MagazinesRecordRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MagazineWeeklyEntryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleAccessRightsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleAccessRightsLibraryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleFormMappingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ModuleMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.MotherTongueMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.mytempbbdtRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NationalityMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsMagazineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsPaperRecordRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.NewsPaperRecordPriceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.OccupationMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.oldnewsubject_yb_importRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PartialAccessRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PrefixMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_1_ybRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_2_ybRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.project_3_ybRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.PublisherMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.purcdateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Q_PAPER_RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QualificationMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.questionPaperRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QuotationDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.QuotationMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RackMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RackShelfBookCountRptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ReligionMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ReOpeningDateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.RoleMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SchoolRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SectionMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Sheet2_RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet._Sheet4_RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.ShelfMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SoceityInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SocMemDetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StateMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StatusMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StreamMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudAllocDtlsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudBooksIssueLooseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudBooksIsueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudDistDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudDistMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudEnquiryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentDailyAttendanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentStreamRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudentTestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudLumsumAttndRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudPresentationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.StudStruckOffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubCastMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectSequenceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectsStudRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.SubjectTypeMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.subjectupdate_For_Import_OnlyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.syllabusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.Temp_Stud_LogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempBSAcctRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TEMPDEPBOOKAUTHORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TEMPDEPBOOKAUTHORSUMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempFeeRecRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempInstCodeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempOutstandingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempPreMaxLogIdRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempPurcReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempSemesterwiseBookAddedReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TempTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.TMPStudentPhotosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.UnpaidFeeReminderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.UserMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.VendorMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.VerificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.WashinfTimeTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSet.WriteOffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.AcadYearTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ACC_WITHDRAWLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.AccessRightsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.AccountGroupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.AccountMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.AccountOpeningTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ActivityMonitorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ActivityMonitorOldTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.AdmittedStudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.AuthorMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BinderMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BindTypeMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookBankIssueDtlsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookBankIssueMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookBankIssueReturnRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookBankIssueRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookBankReturnRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookBindIssueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookCategoryMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookClaimTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookFineMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookIssueReturnRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookIssueRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookIssueTypeMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookNotReturnrptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookReturnRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookSubCategoryMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BookVerificationRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BranchMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BreakageLostTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BusChargesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.BusServiceProviderInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.CasteMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.CategoryMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.CityMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ClaResSheTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Class_SeatsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Class_Subj_Exam_DtlsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Class_Subject_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ClassFeeMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ClassifficationTitleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.classificationdigitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.classItemDistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ClassMarksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ClassMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ClassMedHIRankTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.CompanyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.CountryMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DailyBooksIssueRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DailyBooksReturnRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DCDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DCMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DepartmentMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DesignationMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DeviceCompMappingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Digital_Content_Source_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DigitalBooksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DigitalLibrarySectionMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.digittoclassificationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Dissertation_TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.DonatedMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ecollege_LibraryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EmpBookIssueReturnRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EmpBookIssueRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EmpBookReturnRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EmpBooksIssueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EmployeeMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EmployeeMasterDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EmpProductIssueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EnquirDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EnquiryMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.EventMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ex_importTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.FeeRefundTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.FinancialYrTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.FineCollectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.FineCollectionRRTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LanguageMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LBRBookBankTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LBRBooksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LBRDiscardedBooksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LibBooksKeyWordsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LibMagazineContentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LibPhyVerifAnalysisRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LibrarySectionMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LibrarySectionSettingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LibrarySetupEmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LibrarySetupStudentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.LogInDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.MagazinesRecordTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.MagazineWeeklyEntryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ModuleAccessRightsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ModuleAccessRightsLibraryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ModuleDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ModuleFormMappingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ModuleMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.MotherTongueMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.mytempbbdtTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.NationalityMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.NewsMagazineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.NewsPaperRecordTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.NewsPaperRecordPriceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.OccupationMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.oldnewsubject_yb_importTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.PartialAccessTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.PrefixMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.project_1_ybTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.project_2_ybTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.project_3_ybTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.PublisherMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.purcdateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Q_PAPER_TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.QualificationMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.questionPaperTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.QuotationDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.QuotationMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.RackMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.RackShelfBookCountRptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ReligionMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ReOpeningDateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.RoleMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SchoolTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SectionMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Sheet2_TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Sheet4_TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.ShelfMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SoceityInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SocMemDetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StateMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StatusMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StreamMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudAllocDtlsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudBooksIssueLooseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudBooksIsueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudDistDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudDistMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudEnquiryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudentDailyAttendanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudentStreamTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudentTestTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudLumsumAttndTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudPresentationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.StudStruckOffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SubCastMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SubjectMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SubjectSequenceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SubjectsStudTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.SubjectTypeMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.subjectupdate_For_Import_OnlyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.syllabusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.Temp_Stud_LogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempBSAcctTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TEMPDEPBOOKAUTHORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TEMPDEPBOOKAUTHORSUMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempFeeRecTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempInstCodeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempOutstandingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempPreMaxLogIdTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempPurcReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempSemesterwiseBookAddedReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TempTableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TMPStudentPhotosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.UnpaidFeeReminderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.UserMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.VendorMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.VerificationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.WashinfTimeTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.WriteOffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DataExtractor.SSMCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DataExtractor.SSMCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DataExtractor.SSMCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager.UpdateAll(DataExtractor.SSMCLibraryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DataExtractor.SSMCLibraryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
